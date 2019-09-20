@@ -16,4 +16,4 @@
 # Pratikum03
 ![Alt text](https://github.com/arfinadevi28/Jobsheet-10/blob/master/Screenshot%20(77).png)
 # Pratikum04
-![Alt text](https://github.com/arfinadevi28/Jobsheet-10/blob/master/Screenshot%20(78).png)
+![Alt text](
