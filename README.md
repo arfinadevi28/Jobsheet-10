@@ -3,6 +3,8 @@
 ![Alt text](https://github.com/arfinadevi28/Jobsheet-10/blob/master/Screenshot%20(70).png)
 # pratikum03
 ![Alt text](https://github.com/arfinadevi28/Jobsheet-10/blob/master/Screenshot%20(71).png)
+# TugasPratikum01
+![Alt text](https://github.com/arfinadevi28/Jobsheet-10/blob/master/Screenshot%20(72).png)
 # TugasPratikum02
 ![Alt text](https://github.com/arfinadevi28/Jobsheet-10/blob/master/Screenshot%20(73).png)
 # TugasPratikum03
@@ -15,4 +17,3 @@
 ![Alt text](https://github.com/arfinadevi28/Jobsheet-10/blob/master/Screenshot%20(77).png)
 # Pratikum04
 ![Alt text](https://github.com/arfinadevi28/Jobsheet-10/blob/master/Screenshot%20(78).png)
-# TugasPratikum01
