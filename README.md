@@ -1,6 +1,6 @@
 # Jobsheet-10
 # Pratikum01
-![Alt text](https://github.com/arfinadevi28/Jobsheet-10/blob/master/Screenshot%20(70).png)
+![Alt text](
 # Pratikum03
 ![Alt text](https://github.com/arfinadevi28/Jobsheet-10/blob/master/Screenshot%20(71).png)
 # TugasPratikum01
