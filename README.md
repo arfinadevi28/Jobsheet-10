@@ -4,7 +4,7 @@
 # Pratikum03
 ![Alt text](https://github.com/arfinadevi28/Jobsheet-10/blob/master/Screenshot%20(71).png)
 # TugasPratikum01
-![Alt text](
+![Alt text](https://github.com/arfinadevi28/Jobsheet-10/blob/master/Screenshot%20(83).png)
 # TugasPratikum02
 ![Alt text](https://github.com/arfinadevi28/Jobsheet-10/blob/master/Screenshot%20(73).png)
 # TugasPratikum03
